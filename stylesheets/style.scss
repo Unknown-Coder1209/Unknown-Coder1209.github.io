@@ -1,0 +1,67 @@
+// var to root pages 
+$color-gray: #6b788585;
+
+
+// simple change html tag's
+html, body {
+  height: 100% !important;
+  overflow-x: hidden !important;
+  margin: 0 !important;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+
+//self style's
+
+#spacer-nav {
+  border: {
+    right: 1px solid $color-gray;
+    left: 1px solid $color-gray;
+  }
+}
+.ul-task-manager {
+  margin: 0 !important;
+}
+.text-del {
+  text-decoration: line-through;
+}
+.bg-footer {
+  background-color: rgb(90, 73, 73);
+}
+.footer-section {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: auto;
+}
+.col-footer {
+  padding: {
+    bottom: .3rem;
+  }
+}
+.a-footer {
+  &:hover {
+    color: purple;
+  }
+}
+ .footer-ul {
+//   padding-top: .5rem;
+  margin-bottom: 0 !important;
+}
+.p-footer {
+  margin: {
+    top: 0 !important;
+    bottom: 0 !important;
+  }
+  padding-top: .3rem;
+}
+// bootstrap changes
+.navbar {
+  padding: {
+    left: 6rem !important;
+    right: 6rem !important;
+  }
+} 
