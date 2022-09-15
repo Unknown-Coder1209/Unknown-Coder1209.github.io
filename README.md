@@ -6,7 +6,7 @@
 3. [loadash](https://lodash.com/docs/4.17.15)
 4. [Sass](https://sass-lang.com/)
 5. [Webpack](https://webpack.js.org/)
-_Anyway regular stack for simple pwa_
+_Anyway regular stack_
 ##### BackEnd
 __Without BackEnd__
 #### Info about app
