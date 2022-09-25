@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunklib_1"]=self["webpackChunklib_1"]||[]).push([[618],{618:function(l,n,t){t.r(n),t.d(n,{default:function(){return o}});var u=t(4145),e=t(4886),r=function(){var l=this,n=l._self._c;return n(u.Z,{staticClass:"h-full ma-5",attrs:{elevation:"10"}},[n(e.EB,[l._v("Error 404")])],1)},s=[],a={name:"NotFound"},i=a,c=t(1001),f=(0,c.Z)(i,r,s,!1,null,null,null),o=f.exports}}]);
+//# sourceMappingURL=618.92f2a5b9.js.map
